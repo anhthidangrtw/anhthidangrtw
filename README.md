@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @anhthidangrtw
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Tih Dang
+- I am from VN
+- 👀 I’m interested in football
+- 🌱 I’m currently learning English and coding 
+- 💞️ I’m looking to collaborate on construction
+- 📫 How to reach me greenbuild
 
 <!---
 anhthidangrtw/anhthidangrtw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
